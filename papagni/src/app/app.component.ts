@@ -9,5 +9,5 @@ import { ThirdComponentComponent } from './third-component/third-component.compo
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'papagni';
+  title = 'app';
 }
